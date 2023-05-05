@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @florivula
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working on EasyOrder
+- 🌱 I’m currently working on EasyOrder and IntegrohuKS
 - 💞️ I’m looking to collaborate on any simple projects
 - 📫 Contact me via email: flori.vula@gmail.com
 
